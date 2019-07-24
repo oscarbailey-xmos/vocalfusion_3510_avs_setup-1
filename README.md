@@ -13,7 +13,7 @@ This repository provides a simple-to-use automated script to install the Amazon 
 You will need:
 
 - **xCORE VocalFusion XVF3510 kit for Amazon AVS**: XK-VF3510-L71
-- Raspberry Pi 3
+- Raspberry Pi 3. Note: the Pi 4 is currently not compatible with AVS.
 - Micro-USB power supply (min. 2A)
 - MicroSD card (min. 16GB)
 - Powered mono speaker with audio 3.5mm analogue plug
